@@ -6,7 +6,8 @@
 
 - Terraform
 - Pulumi
-- python & pip
+- python 3.7 & pip
+- AWS account
 
 Get the repo
 ```
